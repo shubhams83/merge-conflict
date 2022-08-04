@@ -1,3 +1,3 @@
 # merge-conflict
 
-Hey Everyone!
+HEllo
